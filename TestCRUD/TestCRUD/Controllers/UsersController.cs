@@ -90,7 +90,7 @@ namespace TestCRUD.Controllers
         [ProducesResponseType(500)]
         [AllowAnonymous]
 
-        public async Task<IActionResult> AddUser([FromBody] UserDTO userDTO)
+        public async Task<IActionResult> AddUser([FromForm] UserDTO userDTO)
         {
             try
             {
@@ -115,7 +115,7 @@ namespace TestCRUD.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
         [ProducesResponseType(500)]
-        public async Task<IActionResult> UpdateUser(int id, [FromBody] UserDTO userDTO)
+        public async Task<IActionResult> UpdateUser(int id, [FromForm] UserDTO userDTO)
         {
             try
             {
