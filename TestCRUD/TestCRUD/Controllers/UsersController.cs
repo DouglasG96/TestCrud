@@ -119,9 +119,7 @@ namespace TestCRUD.Controllers
         {
             try
             {
-                if (id != userDTO.CodUsuario)
-                    return BadRequest();
-
+                userDTO.CodUsuario = id;
                 var user = _mapper.Map<TUser>(userDTO);
                 await _user.UpdateUser(user);
 
