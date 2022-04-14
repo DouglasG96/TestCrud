@@ -34,8 +34,7 @@ namespace TestCRUD.Controllers
         [AllowAnonymous]
         [ProducesResponseType(typeof(UserDTO), 200)]
         [ProducesResponseType(404)]
-        [ProducesResponseType(500)]
-        [HttpGet]
+        [ProducesResponseType(500)]        
         public IActionResult GetUsers()
         {
             try

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7skZEyQBXkMq6NkZng98qWCHdoOjHiulwyc+sUYrscAYPCGEJoJdNjpVNi0UV6sSTIAqefaSkxAm8QXHtnIjQ==",
+  "dgSpecHash": "UUnQl8PY+wn5Dp1mCZ+1VWtFxS/T8SseOzh4UpS3v+iHLjZmFOVqFxvi+NqQAmLJDbTK5YmEnTqrkkbI3Fi3Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DouglasG\\Desktop\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
+  "projectFilePath": "D:\\Repositorios\\TestCrud\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DouglasG\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

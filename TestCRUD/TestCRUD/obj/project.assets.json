@@ -6277,11 +6277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DouglasG\\Desktop\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
+      "projectUniqueName": "D:\\Repositorios\\TestCrud\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
       "projectName": "TestCRUD",
-      "projectPath": "C:\\Users\\DouglasG\\Desktop\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
+      "projectPath": "D:\\Repositorios\\TestCrud\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
       "packagesPath": "C:\\Users\\DouglasG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DouglasG\\Desktop\\TestCRUD\\TestCRUD\\obj\\",
+      "outputPath": "D:\\Repositorios\\TestCrud\\TestCRUD\\TestCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
